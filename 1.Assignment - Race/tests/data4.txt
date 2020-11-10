@@ -1,0 +1,6 @@
+4
+wanderer r 0
+walk w 0
+slider s 0
+sneaky s 0
+rrrrs

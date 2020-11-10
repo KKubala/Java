@@ -1,0 +1,11 @@
+8
+wanderer r 1
+walk w 5
+slider s 5
+sneaky s 8
+mike r 3
+karol w 2
+roby s 1
+nate s 5
+
+scrsscrscrsr

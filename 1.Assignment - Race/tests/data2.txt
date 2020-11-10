@@ -1,0 +1,9 @@
+7
+wanderer r 4
+walk w 7
+slider s 12
+sneaky w 10
+meckey r 1
+brody w 5
+luck r 3
+ssrcrcssscrss
